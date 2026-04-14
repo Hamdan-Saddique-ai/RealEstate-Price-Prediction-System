@@ -1,4 +1,5 @@
 # 🏠 RealEstate Price Prediction System
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/2d98d50e-c9eb-481c-a698-2b92b6e57ed6" />
 
 An intelligent Machine Learning project that predicts real estate prices based on property features using regression algorithms.
 
